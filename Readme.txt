@@ -1,0 +1,1 @@
+Zur Ausführung des Programmes einfach die GUI starten.
